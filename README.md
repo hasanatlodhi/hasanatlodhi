@@ -7,5 +7,5 @@
 - 🌱 I’m currently working as a Machine Learning engineer in a Research Lab at Comsats Abbottabad.
 - 👀  You can visit My Profile on Kaggle. https://www.kaggle.com/hasanatlodhi/ 
 - 📫 My Personal Wesbite http://hasanatlodhi.unaux.com/
-- Check out My Achievements on HackerRank https://www.hackerrank.com/dashboard
+- Check out My Achievements on HackerRank https://www.hackerrank.com/lodhihasanat
 
