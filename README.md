@@ -5,8 +5,8 @@
 - 🧠Interested in Data science and Artificial Intelligence.
 - 💻 Research Interest:  ComputerVision, Deep Learning
 - 🌱 I’m currently working as a Machine Learning engineer in a Research Lab at Comsats Abbottabad.
-- Follow me On LinkedIn: www.linkedin.com/in/hasanat-ahmed-lodhi-58b718219/
-- 👀  You can visit My Profile on Kaggle. www.kaggle.com/hasanatlodhi/ 
+- 🔗 Follow me On LinkedIn: www.linkedin.com/in/hasanat-ahmed-lodhi-58b718219/
+- 👀 You can visit My Profile on Kaggle. www.kaggle.com/hasanatlodhi/ 
 - 📫 My Personal Wesbite http://hasanatlodhi.unaux.com/
-- Check out My Achievements on HackerRank www.hackerrank.com/lodhihasanat
+- 🖥️Check out My Achievements on HackerRank www.hackerrank.com/lodhihasanat
 
