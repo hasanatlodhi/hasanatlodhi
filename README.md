@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/55047887/218684580-05041ac8-8cb1-4f77-a822-4568d529642d.png)
 
-- 🤖 Deep Learning Engineer @ Qlu.ai
+- 🤖 Deep Learning Engineer @ [Qlu.ai](https://qlu.ai/)
 - 👩‍💻Software Engineering Graduate from Comsats University Islamabad, Abbottabad Campus.
 - 🧠Interested in Data science and Artificial Intelligence.
 - 💻 Research Interest:  ComputerVision, Deep Learning
