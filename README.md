@@ -2,7 +2,7 @@
 
 - 🤖 Deep Learning Engineer (Currently in a Stealth Startup ⭕)
 - 💻 Research Interest:  ComputerVision, Deep Learning,NLP, LLMs
-- - 🧠Interested in Data science and Artificial Intelligence.
+- 🧠Interested in Data science and Artificial Intelligence.
 - 👩‍💻Software Engineering Graduate from Comsats University Islamabad, Abbottabad Campus.
 - 🔗 Follow me On LinkedIn: www.linkedin.com/in/hasanat-ahmed-lodhi-58b718219/
 - 👀 You can visit My Profile on Kaggle. www.kaggle.com/hasanatlodhi/ 
