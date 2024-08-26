@@ -1,16 +1,30 @@
 <abc>
 
-  <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  <br> I'm Hasanat Lodhi | Unleashing AI Intriguing Potential! :computer:<br>
+  <br>Hi there!
+  <br> I'm Hasanat Lodhi :computer:<br>
   <br>
 </abc>
-![Giphy](https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif)
 
-- 🤖 Machine Learning Engineer (Currently in a Stealth Startup ⭕)
-- 💻 Research Interest:  ComputerVision,  NLP, LLMs
-- 🧠Interested in Data science and Artificial Intelligence.
-- 👩‍💻Software Engineering Graduate from Comsats University Islamabad, Abbottabad Campus.
-- 🔗 Follow me On LinkedIn: www.linkedin.com/in/hasanat-ahmed-lodhi-58b718219/
-- 👀 You can visit My Profile on Kaggle. www.kaggle.com/hasanatlodhi/ 
-- 🖥️Check out My Achievements on HackerRank www.hackerrank.com/lodhihasanat
+# 💫 About Me:
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=3000&pause=1000&color=B9E7F7&background=FF461B00&width=435&lines=Machine+Learning+Engineer;Unleashing+AI+Intriguing+Potential!)](https://git.io/typing-svg)
+- 💻 **Research Interests:** Computer Vision, NLP, LLMs
+- 🧠 **Passionate About:** Data Science and Artificial Intelligence
+- 🎓 **Education:** Software Engineering Graduate, COMSATS University Islamabad, Abbottabad Campus
+- 🔗 **Connect with Me:** [LinkedIn](https://www.linkedin.com/in/hasanat-ahmed-lodhi-58b718219/)
+- 👀 **Explore My Work:** [Kaggle](https://www.kaggle.com/hasanatlodhi/)
+- 🖥️ **Achievements:** [HackerRank](https://www.hackerrank.com/lodhihasanat)
 
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/hasanatlodhi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hasanatlodhi) 
+
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasanatlodhi&count_private=true&theme=algolia&layout=compact&center=true)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/hasanatlodhi))
+
+---
+
+<h3 align="center">🚀 Let's connect, collaborate, and innovate!</h3>
+
+---
