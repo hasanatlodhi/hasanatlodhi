@@ -9,7 +9,7 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=3000&pause=1000&color=B9E7F7&background=FF461B00&width=435&lines=Machine+Learning+Engineer;Unleashing+AI+Intriguing+Potential!)](https://git.io/typing-svg)
 - 💻 **Research Interests:** Computer Vision, NLP, LLMs
 - 🧠 **Passionate About:** Data Science and Artificial Intelligence
-- 🎓 **Education:** Software Engineering Graduate, COMSATS University Islamabad, Abbottabad Campus
+- 🎓 **Education:** Msc Data Science & AI @ Saarland University | BS Software Engineering, Comsats University
 - 🔗 **Connect with Me:** [LinkedIn](https://www.linkedin.com/in/hasanat-ahmed-lodhi-58b718219/)
 - 👀 **Explore My Work:** [Kaggle](https://www.kaggle.com/hasanatlodhi/)
 - 🖥️ **Achievements:** [HackerRank](https://www.hackerrank.com/lodhihasanat)
